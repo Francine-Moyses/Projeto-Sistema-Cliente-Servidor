@@ -12,7 +12,7 @@
 	}
 </style>
 <body>
-	<form action="estudante-response.jsp" method="post">
+	<form action="response.jsp" method="post">
 		Nome: <input type="text" name="nome" class = "cor"/>
 		<br/><br/>
 		RGM: <input type="text" name="rgm"/>

@@ -1,9 +1,10 @@
 # Projeto Sistemas Cliente/Servidor
 
-**Projeto:** Configuração de servidor web com aplicação HTML5 + JSP
+**Projeto:** 
 
 **Descrição das Pastas:**
-* img: Pasta com imagens
+* WebContent 1: JSP + HTML5
+* WebContent 2: JSTL + MySQL Workbench
 
 ## Tecnologias Utilizadas
 

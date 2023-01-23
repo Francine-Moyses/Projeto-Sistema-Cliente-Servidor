@@ -25,7 +25,14 @@
 			<th>ID_EMPREGADO</th>
 			<th>FUNCIONARIO</th>
 			<th>E-MAIL</th>
-		</tr>			
+		</tr>
+		<c:forEach var="registro" items="${result.rows}"> 
+			<tr>
+				<td><c:out value="${registro.ID_EMPREGADO}"/></td>
+				<td><c:out value="${registro.FUNCIONARIO}"/></td>
+				<td><c:out value="${registro.E-MAIL}"/></td>
+			</tr>
+		</c:forEach>	
 	</table>
 	
 	

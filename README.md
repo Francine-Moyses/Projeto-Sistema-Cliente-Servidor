@@ -5,6 +5,7 @@
 **Descrição das Pastas:**
 * WebContent 1: JSP + HTML5
 * WebContent 2: JSTL + MySQL Workbench
+* WebContent 3: MVC com Servlet
 
 ## Tecnologias Utilizadas
 
